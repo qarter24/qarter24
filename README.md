@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @qarter24
+- 👀 I’m interested in Improving my programming skill
+- 🌱 I’m currently learning Laravel PHP Blade
+- 💞️ I’m looking to collaborate on WEB Development
+- 📫 How to reach me Mail me at qowwiy2408@gmail.com
+- 😄 Pronouns: I'm not mentally ill he/him
+- ⚡ Fun fact: I'm a high school student
